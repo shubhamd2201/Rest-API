@@ -1,0 +1,25 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "this is rest api project with piyush",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamd2201/Rest-API.git"
+  },
+  "author": "Shubham dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamd2201/Rest-API/issues"
+  },
+  "homepage": "https://github.com/shubhamd2201/Rest-API#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
